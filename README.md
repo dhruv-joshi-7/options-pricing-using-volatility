@@ -5,7 +5,7 @@ Hence it is necessary to compare volatility before buying options
 
 Here's how I have gone about this project:
 
-• Get price data
-• Compute realized volatility
-• Build volatility cones of realized volatility
+• Get price data\
+• Compute realized volatility\
+• Build volatility cones of realized volatility\
 • Use cones to determine if the current realized volatility is cheap
